@@ -7,5 +7,5 @@ authors: ["Skull3x", "Muqsit"]
 website: http://github.com/R4KT
 commands:
   ah:
-    description: "Auction house hub command."
+    description: ""
     aliases: ["auction", "auctionhouse"]
